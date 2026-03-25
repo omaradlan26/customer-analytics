@@ -1,0 +1,5 @@
+cluster
+1    89
+0    63
+2    48
+Name: count, dtype: int64

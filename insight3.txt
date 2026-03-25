@@ -1,0 +1,6 @@
+Average values:
+CustomerID           -7.105427e-17
+Age                  -9.769963e-17
+Annual_Income_(k$)   -2.131628e-16
+Spending_Score       -1.287859e-16
+Genre_Male            4.400000e-01
