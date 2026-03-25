@@ -1,7 +1,5 @@
 # Customer Analytics Pipeline
 
-## Team Members
-- Your Name
 
 ## Build
 docker build -t customer-analytics .
