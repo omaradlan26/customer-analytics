@@ -1,6 +1,6 @@
 import pandas as pd
 
-print("🚀 Analytics started")
+print(" Analytics started")
 
 df = pd.read_csv("data_preprocessed.csv")
 
@@ -23,4 +23,4 @@ with open("insight2.txt", "w") as f:
 with open("insight3.txt", "w") as f:
     f.write(insight3)
 
-print("✅ Insights saved")
+print(" Insights saved")
