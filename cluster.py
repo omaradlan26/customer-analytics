@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.cluster import KMeans
 
-print("🚀 Clustering started")
+print(" Clustering started")
 
 df = pd.read_csv("data_preprocessed.csv")
 
@@ -15,4 +15,4 @@ counts = df["cluster"].value_counts()
 with open("clusters.txt", "w") as f:
     f.write(str(counts))
 
-print("✅ clusters.txt created")
+print(" clusters.txt created")
